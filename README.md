@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dinesh</h1>
 <h3 align="center">A passionate about learning new tools in Devops World,Cloud World</h3>
-<img src="https://linuxhelp4u.blogspot.com/2015_07_31_archive.html"  width="40" height="40"/>
+<img src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif" />
 
 - 🔭 I’m currently working on **DummyS3Project**
 
